@@ -1,0 +1,2 @@
+# SocialMgr-UptimeMonitor
+Monitoring SocialManager
