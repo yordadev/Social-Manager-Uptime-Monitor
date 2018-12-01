@@ -1,0 +1,24 @@
+{
+  "name": "socialmgr-uptimemonitor",
+  "version": "1.0.0",
+  "description": "Monitoring SocialManager reporting to Slack",
+  "main": "monitor.js",
+  "dependencies": {
+    "ping-monitor": "^0.2.0",
+    "slack-notify": "^0.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yordadev/SocialMgr-UptimeMonitor.git"
+  },
+  "author": "yordadev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yordadev/SocialMgr-UptimeMonitor/issues"
+  },
+  "homepage": "https://github.com/yordadev/SocialMgr-UptimeMonitor#readme"
+}
